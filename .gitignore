@@ -1,0 +1,7 @@
+.vs
+x64
+.idea
+cmake-build-*
+build*
+out
+*.aps
